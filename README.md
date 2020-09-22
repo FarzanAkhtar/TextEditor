@@ -1,2 +1,2 @@
 # TextEditor
-A minimalistic text editor
+A minimalistic text editor using Tkinter module.
